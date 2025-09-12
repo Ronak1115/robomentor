@@ -32,7 +32,10 @@ open the command run prompt and paste "ollama pull gpt-oss:20b" in it . This com
 - “How does a robot arm work?”
 - “What is inverse kinematics?”
 - “Give me a beginner challenge in robotics.”
+
 🧠 Expected Response GPT-OSS will return a beginner-friendly explanation, such as: A robot arm is a mechanical device that mimics the movement of a human arm. It typically consists of joints, actuators, and sensors...
+
+
 🧠 Model Weights & Training Data
 - GPT-OSS model weights available via OpenAI’s GPT-OSS release
 - Model used: gpt-oss:20b (no fine-tuning applied)
