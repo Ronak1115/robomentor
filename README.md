@@ -21,7 +21,7 @@ open the command run prompt and paste "ollama pull gpt-oss:20b" in it . This com
  ✅ Test Prompt Type your question into ask AI mentor
 
    🧪 To test the project locally:
-1. Download and unzip the folder"robomentor_test " from above.
+1. Download and unzip the folder"robomentor_test.zip " from above.
 2. Open the folder in **Visual Studio Code**
 3. Install the **Live Server** extension (if not already installed)
 4. Right-click `index.html` → choose **“Open with Live Server”**
