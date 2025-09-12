@@ -16,7 +16,9 @@ open the command run prompt and paste "ollama pull gpt-oss:20b" in it . This com
 - Open the project in Unity Editor
 - Press Play
 - Type a question and click “Ask Mentor”
-🧪 Testing Instructions ✅ Test Prompt Type your question into ask AI mentor
+🧪 Testing Instructions
+ ✅ Test Prompt Type your question into ask AI mentor
+🔗 Download RoboMentor.zip: [Google Drive Link](https://drive.google.com/file/d/1l0vmu-VD7DUGQRCC1Er1SlL68h_kdNAA/view?usp=drive_link)
 🧪 Example Prompts
 - “How does a robot arm work?”
 - “What is inverse kinematics?”
